@@ -1,6 +1,5 @@
 public class Person {
-    int age;
-    String firstName;
-
+   private int age;
+   String firstName;
 
 }
