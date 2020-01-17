@@ -5,3 +5,4 @@ green
 black
 yellow
 purple
+pink
